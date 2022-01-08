@@ -1,0 +1,6 @@
+Init thte properties files....
+Launching the browser: chrome
+Navigate to URL: https://www.amazon.in
+Select the option Books by using Locator: searchDropdownBox
+Enter the text Harry Potter by using locator :field-keywords
+Click the element by using locator ://input[@id='nav-search-submit-button']
